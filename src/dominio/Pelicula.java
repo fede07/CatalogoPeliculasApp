@@ -44,7 +44,7 @@ public class Pelicula {
 
     @Override
     public String toString() {
-        return nombreString;
+        return this.nombreString;
     }
     
     public static void main(String[] args) {
